@@ -55,7 +55,7 @@ dependencies {
 
 
 ```kotlin
-package com.example.mobsurandroidtest
+import io.edentechlabs.survey.sdk.MobSur
 ```
 
 2. Initialize the SDK and set the fragment manager:
