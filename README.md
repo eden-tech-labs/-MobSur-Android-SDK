@@ -1,9 +1,9 @@
 # MobSur (Android SDK)
 ---
 ## Table of contents
-* [Requirements](#requirements) (public)
-* [Setup](#setup) (public)
-* [Usage](#usage) (public)
+* [Requirements](#requirements)
+* [Setup](#setup)
+* [Usage](#usage)
 
 ## Requirements
 - AndroidX
