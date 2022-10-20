@@ -4,6 +4,7 @@
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Sample project](#sampleApp) (public)
 
 ## Requirements
 - AndroidX
@@ -81,4 +82,8 @@ val button = findViewById(R.id.button) as Button
 MobSur.updateUserId("newUserId")
 ```
 
+
+## Sample project
+
+A complete project with the SDK can be found in our [GitHub repository](https://github.com/eden-tech-labs/MobSur-Android-App).
 
