@@ -38,12 +38,7 @@ dependencies {
 }
 ```
 
-5. Add internet permission in the manifest file:
-```xml
-<uses-permission android:name="android.permission.INTERNET"/>
-```
-
-6. Synchronize the gradle file.
+5. Synchronize the gradle file.
 
 	
 ## Usage
