@@ -4,7 +4,7 @@
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Sample project](#sampleApp) (public)
+* [Sample project](#Sample project) (public)
 
 ## Requirements
 - AndroidX
@@ -51,9 +51,11 @@ import io.edentechlabs.survey.sdk.MobSur
 
 2. Initialize the SDK and set the fragment manager:
 
+The `debug` parameter is optional, but if it's set to `true`, you will see debug info in the logs. 
+
 ```kotlin
 //appId can be taken from https://app.mobsur.com/user/apps
-MobSur.setup(applicationContext, "appId", "userId")
+MobSur.setup(applicationContext, "appId", "userId", dabug = false)
 MobSur.setFragmentManager(supportFragmentManager)
 ```
 
